@@ -1,0 +1,82 @@
+head {
+    font-family: 'Krona One', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-color: black;
+    color: #F6F6F6;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+ul {
+    position: relative;
+    gap: 80px;
+    top: 65px;
+    bottom: 1057px;
+    left: 360px;
+    right: 1261px;
+
+}
+
+li {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.26px;
+    display: inline;
+    margin: 0 80px 0 0;
+}
+
+li a {
+    color: #5170FF;
+    text-decoration: none;
+}
+
+strong {
+    color: #FF66C4;
+}
+
+.container {
+    margin: 10% 15%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    font-family: 'Krona One', sans-serif;
+    font-size: 36px;
+    line-height: 56px;
+    padding-bottom: 50px;
+    color: #FF66C4;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+    line-height: 36px;
+}
+
+.projetos {
+    text-align: left;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.projetos img {
+    border-radius: 10px;
+    border: 2px solid #5170FF;
+    padding: 10px;
+}
+
+.rodape {
+    background-color: #5170FF;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+
+}
